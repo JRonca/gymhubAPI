@@ -25,7 +25,8 @@
         "arrowParens": "always",
         "semi": true
       }
-    ]
+    ],
+    "camelcase":"off"
   },
   "settings": {
     "import/parsers": {
