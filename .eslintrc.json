@@ -26,7 +26,8 @@
         "semi": true
       }
     ],
-    "camelcase":"off"
+    "camelcase":"off",
+    "no-useless-constructor": "off"
   },
   "settings": {
     "import/parsers": {
